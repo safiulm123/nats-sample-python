@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import asyncio
 import json
 from nats.aio.client import Client as NATS
